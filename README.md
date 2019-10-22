@@ -7,4 +7,3 @@ My goal for this project is to brainstorm and practice writing blog posts for my
 
 ---
 #### Monday, November 4th, 2019
-- 
