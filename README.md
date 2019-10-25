@@ -7,7 +7,7 @@ My goal for this project is to brainstorm and practice writing blog posts for my
 
 ~ Brainstorming ~
 
-- Create 7 day categories
+- Create 7 day themes, write something in the theme every day of those seven days
   - wfh, environment, traveling, etc
   - quick code fun
   - what I love about UXD
