@@ -13,5 +13,7 @@ My goal for this project is to brainstorm and practice writing blog posts for my
   - what I love about UXD
   - etc
 
+- html element of the day! 
+
 ---
 #### Day 1 - Monday, November 4th, 2019
