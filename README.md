@@ -5,5 +5,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 My goal for this project is to brainstorm and practice writing blog posts for my companies blog. 
 
+~ Brainstorming ~
+
+- Create 7 day categories
+  - wfh, environment, traveling, etc
+  - quick code fun
+  - what I love about UXD
+  - etc
+
 ---
-#### Monday, November 4th, 2019
+#### Day 1 - Monday, November 4th, 2019
