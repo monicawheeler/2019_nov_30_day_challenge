@@ -5,6 +5,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 My goal for this project is to brainstorm and practice writing blog posts for my companies blog. 
 
+TODO - break out brainstorming into a new file
 ~ Brainstorming ~
 
 - Create 7 day themes, write something in the theme every day of those seven days
