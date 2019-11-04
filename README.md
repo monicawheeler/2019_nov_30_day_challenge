@@ -9,6 +9,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 - Continue: Create quick accessibility tips
 - Continue: Deque course material
 - Start: Read CSS/HTML specs
+- Start: JavaScript30 daily
 - Start: Meditate daily
 - Continue: daily fasting 
 
