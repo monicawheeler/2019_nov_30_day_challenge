@@ -16,3 +16,5 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ---
 
 ### Day 1 - Monday, November 4th, 2019
+
+- Fasted for 14 hours 
