@@ -6,14 +6,22 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ## Goals for 30 day challenge
 
+- Continue: daily fasting 
 - Continue: Create quick accessibility tips
 - Continue: Deque course material
-- Start: Read CSS/HTML specs
 - Start: JavaScript30 daily
+- Start: Read CSS/HTML specs
 - Start: Meditate daily
-- Continue: daily fasting 
 
 ---
+
+### Day 2 - Tuesday, November 5th, 2019
+
+- Fasted for 14 hours, 5 minutes
+- Wrote quick accessibility tip for heading levels
+- Read color blind persona in Deque University coursework
+- Quick tip to write tomorrow: Color Alone is not Enough: color is not sufficient in communicating meaning. 
+  - _When colors alone are the only methods being used to communicate important information on a web page, people who are colorblind may miss that information altogether. In addition to color, consider using text and symbols as means to convey information._
 
 ### Day 1 - Monday, November 4th, 2019
 
