@@ -20,3 +20,4 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 - Fasted for 14 hours 
 - Completed JS30 - day 1 (Drum Kit!) 
   - TODO: continued learnings are, key events, `transitionend`, consider an easy sound board with semantic HTML
+- Quick accessibility tip: headings should be used and used with content, should be in order, and SHOULD convey a clear and accurate structural outline of the sections of content of a web page.
