@@ -15,6 +15,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 3 - Wednesday, November 5th, 2019
+
+- Fasted for 14 hours
+- Wrote quick accessibility tip for "Color Alone..."
+
+---
+
 ### Day 2 - Tuesday, November 5th, 2019
 
 - Fasted for 14 hours, 5 minutes
