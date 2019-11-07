@@ -15,10 +15,15 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 5 - Friday, November 7th, 2019
+
+- TODO: write quick accessibility tip for "Aria Roles" 
+
 ### Day 4 - Thursday, November 6th, 2019
 
-- TODO write quick tip about landmarks in accessibility 
-- TODO aim for 11:30 starting time for feeding (end fast after 16 hours)
+- Fasted for 16 hours and 11 minutes
+- Wrote quick accessibility tip for "Landmarks"
+- Read more in Deque about laws and standards for accessibility
 
 ---
 
