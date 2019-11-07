@@ -19,6 +19,8 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 - TODO: write quick accessibility tip for "Aria Roles" 
 
+---
+
 ### Day 4 - Thursday, November 6th, 2019
 
 - Fasted for 16 hours and 11 minutes
