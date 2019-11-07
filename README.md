@@ -19,6 +19,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 - Fasted for 14 hours
 - Wrote quick accessibility tip for "Color Alone..."
+- Completed AJAX Basics on teamtreehouse 
 
 ---
 
