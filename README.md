@@ -15,6 +15,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 4 - Thursday, November 6th, 2019
+
+- TODO write quick tip about landmarks in accessibility 
+- TODO aim for 11:30 starting time for feeding (end fast after 16 hours)
+
+---
+
 ### Day 3 - Wednesday, November 5th, 2019
 
 - Fasted for 14 hours
