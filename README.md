@@ -18,11 +18,17 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ## Emoji Key
 
 🎉 = totally awesome
+
 💯 = I get all the points
+
 🙌🏻 = raising all the roofs
+
 👏🏻 = woot
+
 😄 = happy and joy joy
+
 🍪 = this deserves a cookie
+
 
 ---
 
