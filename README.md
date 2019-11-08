@@ -34,6 +34,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ### Day 5 - Friday, November 7th, 2019
 
+- Fasted for 14 hours and 37 minutes
 - TODO: write quick accessibility tip for "Aria Roles" 
 
 ---
