@@ -32,6 +32,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 7 - Sunday, November 9th, 2019
+
+- Fasted 12 hours
+- Wrote ARIA quick tip
+
+---
+
 ### Day 6 - Saturday, November 8th, 2019
 
 - Completed object oriented JavaScript programming on teamtreehouse 
@@ -43,7 +50,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ### Day 5 - Friday, November 7th, 2019
 
 - Fasted for 14 hours and 37 minutes
-- 4 minutes of using breathe app (meditation)
+- 4 minutes of using breathe app (meditation) 🙌🏻
 - Completed Classes and objects teamtreehouse course
 - TODO: write quick accessibility tip for "Aria Roles" 
 
