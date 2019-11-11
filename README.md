@@ -32,10 +32,17 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 8 - Monday, November 10th, 2019
+
+- Fasted 14 1/2 hours 🍪
+- Worked through some oop js concepts and game creation on teamtreehouse
+- Wrote ARIA quick tip
+
+---
+
 ### Day 7 - Sunday, November 9th, 2019
 
 - Fasted 12 hours
-- Wrote ARIA quick tip
 
 ---
 
