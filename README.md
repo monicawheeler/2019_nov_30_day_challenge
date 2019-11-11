@@ -32,29 +32,34 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
-### Day 8 - Monday, November 10th, 2019
+### Day 9 - Tuesday, November 12th, 2019
 
-- Fasted 14 1/2 hours 🍪
+- Write about live regions: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions
+
+---
+
+### Day 8 - Monday, November 11th, 2019
+
+- Fasted 15 hours 🍪
 - Worked through some oop js concepts and game creation on teamtreehouse
 - Wrote ARIA quick tip
 
 ---
 
-### Day 7 - Sunday, November 9th, 2019
+### Day 7 - Sunday, November 10th, 2019
 
 - Fasted 12 hours
 
 ---
 
-### Day 6 - Saturday, November 8th, 2019
+### Day 6 - Saturday, November 9th, 2019
 
 - Completed object oriented JavaScript programming on teamtreehouse 
 - Read some of Eloquent JavaScript
  
-
 ---
 
-### Day 5 - Friday, November 7th, 2019
+### Day 5 - Friday, November 8th, 2019
 
 - Fasted for 14 hours and 37 minutes
 - 4 minutes of using breathe app (meditation) 🙌🏻
@@ -63,7 +68,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
-### Day 4 - Thursday, November 6th, 2019
+### Day 4 - Thursday, November 7th, 2019
 
 - Fasted for 16 hours and 11 minutes 🎉
 - Wrote quick accessibility tip for "Landmarks" 🍪
@@ -71,7 +76,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
-### Day 3 - Wednesday, November 5th, 2019
+### Day 3 - Wednesday, November 6th, 2019
 
 - Fasted for 14 hours
 - Wrote quick accessibility tip for "Color Alone..." 🎉
