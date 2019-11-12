@@ -29,12 +29,18 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 🍪 = this deserves a cookie
 
+--- 
+
+### Day 10 - Wednesday, November 13th, 2019
+
+- Write about live regions: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions
 
 ---
 
 ### Day 9 - Tuesday, November 12th, 2019
 
-- Write about live regions: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions
+- Fasted 14 1/2 hours 💯
+- Revisited blog posts for editing
 
 ---
 
