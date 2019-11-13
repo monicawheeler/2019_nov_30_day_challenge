@@ -35,6 +35,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 - Fasted 15 hours
 - Wrote about live regions 🙌
+- TODO write about navigations
 
 ---
 
