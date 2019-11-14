@@ -35,7 +35,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 - Fasted 14 hours 😄
 - Brainstorm pixel perfection article
-- TODO Deque course material
+- Deque course material
 - TODO write accessibility tip about `labels`/`inputs` 
 
 ### Day 10 - Wednesday, November 13th, 2019
