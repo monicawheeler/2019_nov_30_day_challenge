@@ -38,8 +38,9 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 - Fasting 14 3/4 hours 🥓
 - Wrote accessibility tip about `labels`/`inputs` 🎉
 - Deque course material
+- TODO for future writing days: accessibility in a chat dialog
 - TODO work on teamtreehouse JS course
-- TODO Add [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) reading to list to read
+- Added [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) reading to list to read
 
 --- 
 
