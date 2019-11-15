@@ -33,13 +33,16 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+- TODO for future writing days: accessibility in a chat dialog
+
+---
+
 ### Day 12 - Friday, November 15th, 2019
 
 - Fasting 14 3/4 hours 🥓
 - Wrote accessibility tip about `labels`/`inputs` 🎉
 - Deque course material
-- TODO for future writing days: accessibility in a chat dialog
-- TODO work on teamtreehouse JS course
+- Teamtreehouse JS practice on classes and OOP
 - Added [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) reading to list to read
 
 --- 
