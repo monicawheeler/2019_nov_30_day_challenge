@@ -33,7 +33,8 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ### Day 12 - Friday, November 15th, 2019
 
-- TODO write accessibility tip about `labels`/`inputs` 
+- Fasting 14+ hours (in progress)
+- Wrote accessibility tip about `labels`/`inputs` 
 - TODO work on teamtreehouse JS course
 
 --- 
