@@ -29,12 +29,15 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 🍪 = this deserves a cookie
 
+🥓 = bacon is better than a trophy
+
 ---
 
 ### Day 12 - Friday, November 15th, 2019
 
-- Fasting 14 3/4 hours 
-- Wrote accessibility tip about `labels`/`inputs` 
+- Fasting 14 3/4 hours 🥓
+- Wrote accessibility tip about `labels`/`inputs` 🎉
+- Deque course material
 - TODO work on teamtreehouse JS course
 
 --- 
