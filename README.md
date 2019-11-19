@@ -7,8 +7,9 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ## Goals for 30 day challenge
 
 - Continue: daily fasting 
-- Continue: Create quick accessibility tips
+- Continue: create quick accessibility tips
 - Continue: Deque course material
+- Continue: write more blog material
 - Start: JavaScript30 daily
 - Start: Read CSS/HTML specs
 - Start: Meditate daily
@@ -34,6 +35,14 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ---
 
 - TODO for future writing days: accessibility in a chat dialog
+
+---
+
+### Day 16 - Tuesday, November 19th, 2019
+
+- Fasting ongoing (aim for 14 hours)
+- Deque course reading
+- Fleshing out chat dialog accessibility writing
 
 ---
 
