@@ -40,7 +40,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ### Day 16 - Tuesday, November 19th, 2019
 
-- Fasting ongoing (aim for 14 hours)
+- Fasted 17 hours and 45 minutes 😄👏🏻
 - Deque course reading
 - Fleshing out chat dialog accessibility writing
 
