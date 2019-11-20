@@ -38,6 +38,14 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+Day 17 - Wednesday, November 20th, 2019
+
+- No fasting today
+- TODO: Deque course reading
+- TODO: write an accessibility tip 
+
+---
+
 ### Day 16 - Tuesday, November 19th, 2019
 
 - Fasted 17 hours and 45 minutes 😄👏🏻
