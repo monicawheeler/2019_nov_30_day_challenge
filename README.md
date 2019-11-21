@@ -38,11 +38,18 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+Day 18 - Thursday, November 21st, 2019
+
+- aiming for 12 hours fasting today
+- outline presentation for axe demo
+- outline presentation for live caption
+
+---
+
 Day 17 - Wednesday, November 20th, 2019
 
 - No fasting today
-- TODO: Deque course reading
-- TODO: write an accessibility tip 
+- Accessibility webinar by Deque (found axe plugin for accessibility testing)
 
 ---
 
