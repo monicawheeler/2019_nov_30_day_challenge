@@ -40,9 +40,8 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 Day 18 - Thursday, November 21st, 2019
 
-- aiming for 12 hours fasting today
-- outline presentation for axe demo
-- outline presentation for live caption
+- Fasted 11 1/2 hours
+- Write 4 principles of accessibility tip
 
 ---
 
