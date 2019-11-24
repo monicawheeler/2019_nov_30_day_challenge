@@ -38,6 +38,14 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+Day 20 - Saturday, November 23rd, 2019
+
+- No fasting 
+- listen to syntax. podcast around problem solving and took notes (great blog post fodder)
+
+
+---
+
 Day 19 - Friday, November 22nd, 2019
 
 - No fasting
