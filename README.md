@@ -38,6 +38,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+Day 21 - Sunday, November 24th, 2019
+
+- fasting for 12 hours
+- TODO - treehouse react course
+
+---
+
 Day 20 - Saturday, November 23rd, 2019
 
 - No fasting 
