@@ -42,6 +42,8 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ### Day 22 - Monday, November 25th, 2019
 
 - Fasted 14 hours 🥓
+- Wrote about cognitive accessibility
+- Created a Gatsby repo locally and started into React
 
 ---
 
