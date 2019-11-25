@@ -35,24 +35,23 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ---
 
 - TODO for future writing days: accessibility in a chat dialog
-
----
-
-Day 22 - Monday, November 25th, 2019
-
-- TODO fast for 14 hours
 - TODO - treehouse react course
 
+---
+
+### Day 22 - Monday, November 25th, 2019
+
+- Fasted 14 hours 🥓
 
 ---
 
-Day 21 - Sunday, November 24th, 2019
+### Day 21 - Sunday, November 24th, 2019
 
 - fasting for 12 hours
 
 ---
 
-Day 20 - Saturday, November 23rd, 2019
+### Day 20 - Saturday, November 23rd, 2019
 
 - No fasting 
 - listen to syntax. podcast around problem solving and took notes (great blog post fodder)
@@ -60,20 +59,20 @@ Day 20 - Saturday, November 23rd, 2019
 
 ---
 
-Day 19 - Friday, November 22nd, 2019
+### Day 19 - Friday, November 22nd, 2019
 
 - No fasting
 
 ---
 
-Day 18 - Thursday, November 21st, 2019
+### Day 18 - Thursday, November 21st, 2019
 
 - Fasted 11 1/2 hours
 - Write 4 principles of accessibility tip
 
 ---
 
-Day 17 - Wednesday, November 20th, 2019
+### Day 17 - Wednesday, November 20th, 2019
 
 - No fasting today
 - Accessibility webinar by Deque (found axe plugin for accessibility testing)
