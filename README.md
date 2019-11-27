@@ -39,7 +39,14 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
-### Day 22 - Monday, November 25th, 2019
+### Day 24 - Wednesday, November 27th, 2019
+
+- Fasted 13 hours
+- Snow, snow, snow = 1hr + of snowblowing/shoveling cardio 🍪
+
+---
+
+### Day 23 - Tuesday, November 26th, 2019
 
 - Fasted 11 hours 
 - Review footnote accessibility article
