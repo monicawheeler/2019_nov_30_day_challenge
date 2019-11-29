@@ -39,6 +39,16 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 26 - Friday, November 29th, 2019
+
+- fasting 14 hours
+
+---
+
+### Day 25 - Thursday, November 28th, 2019
+
+- no entry today
+
 ### Day 24 - Wednesday, November 27th, 2019
 
 - Fasted 13 hours
