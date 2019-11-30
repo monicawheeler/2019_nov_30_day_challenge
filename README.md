@@ -39,6 +39,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 27 - Saturday, November 30th, 2019
+
+- Aim to fast for 14 hours
+- Start Beginner JS by Wes Bos
+
+---
+
 ### Day 26 - Friday, November 29th, 2019
 
 - fasting 14 hours
