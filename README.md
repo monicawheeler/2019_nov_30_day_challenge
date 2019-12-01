@@ -39,6 +39,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 28 - Sunday, December 1st, 2019
+
+- aim for at least 12 hours fast
+- watch more Beginners JS
+
+---
+
 ### Day 27 - Saturday, November 30th, 2019
 
 - 12 hours fasted
