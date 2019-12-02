@@ -34,8 +34,10 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
-- TODO for future writing days: accessibility in a chat dialog
-- TODO - treehouse react course
+### Day 29 - Monday, December 2nd, 2019
+
+- Fasted 14 hours
+- Wrote accessbility tip on zoom settings
 
 ---
 
