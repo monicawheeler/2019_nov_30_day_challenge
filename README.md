@@ -34,6 +34,13 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 30 - Tuesday, December 3rd, 2019
+
+- fast goal 14 hours
+- establish the next 30 day goals
+
+---
+
 ### Day 29 - Monday, December 2nd, 2019
 
 - Fasted 14 hours
