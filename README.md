@@ -13,6 +13,9 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
   - Helpful: https://www.youtube.com/watch?v=UiFdfDBY77g
 - Continue: meditate daily
 
+---
+---
+
 ## Goals for November, 30 day challenge
 
 - Continue: daily fasting 
