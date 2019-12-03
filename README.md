@@ -5,13 +5,21 @@
 This is a personal changelog of my updates for the [30 Day GitHub challenge as described in this article](https://medium.com/@docix/github-30-day-challenge-7eaac41e4176). 
 
 
-## Goals for December, 30 day challenge
+## Goals for December, 100 day challenge
 
 - Continue: daily fasting (try to increase to 16 hours on week days)
 - Start: 100 days of Daily UI 
 - Start: work on building to a 60 second plank (start in modified plank, knees down)
   - Helpful: https://www.youtube.com/watch?v=UiFdfDBY77g
 - Continue: meditate daily
+
+---
+
+### Day 1 - Tuesday, December 3, 2019
+
+- Daily UI - [Sign-Up form - #001](https://www.behance.net/gallery/88976815/DailyUI-Sign-Up-001)
+- Plank time: 1:05 minutes, on knees
+- Meditate: 5 minutes
 
 ---
 ---
