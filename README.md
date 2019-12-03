@@ -4,7 +4,16 @@
 
 This is a personal changelog of my updates for the [30 Day GitHub challenge as described in this article](https://medium.com/@docix/github-30-day-challenge-7eaac41e4176). 
 
-## Goals for 30 day challenge
+
+## Goals for December, 30 day challenge
+
+- Continue: daily fasting (try to increase to 16 hours on week days)
+- Start: 100 days of Daily UI 
+- Start: work on building to a 60 second plank (start in modified plank, knees down)
+  - Helpful: https://www.youtube.com/watch?v=UiFdfDBY77g
+- Continue: meditate daily
+
+## Goals for November, 30 day challenge
 
 - Continue: daily fasting 
 - Continue: create quick accessibility tips
