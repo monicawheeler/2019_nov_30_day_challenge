@@ -20,6 +20,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ### Day 2 - Wednesday, December 4th, 2019
 
 - Fasted 14 hours
+- Meditate for 5 minutes 
 - Daily UI - [Credit Card Info - #002](https://www.behance.net/gallery/89012497/DailyUI-Credit-Card-Info-002)
 
 ---
