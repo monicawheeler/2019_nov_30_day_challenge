@@ -21,7 +21,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 - Fasted 13 hours
 - Meditated - 6minutes
-- Daily UI - landing page for quick accessibility tips
+- Daily UI - [Landing page - #003](https://www.behance.net/gallery/89064767/DailyUI-Landing-Page-003)
 
 ---
 
