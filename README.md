@@ -19,10 +19,9 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ### Day 3 - Thursday, December 5th, 2019
 
-- Fasting goal 14 hours
-- Meditation goal - 7 minutes
-- Daily UI goal - landing page
-- Plank goal - 30 seconds no knees
+- Fasted 13 hours
+- Meditated - 6minutes
+- Daily UI - landing page for quick accessibility tips
 
 ---
 
