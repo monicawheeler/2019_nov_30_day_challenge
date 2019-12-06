@@ -17,10 +17,18 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 4 - Friday, December 6th, 2019
+
+- Fasted 14 hours and 10 minutes
+- TODO Mediate for 6 minutes
+- TODO Daily UI - [Calculator - #004]()
+
+---
+
 ### Day 3 - Thursday, December 5th, 2019
 
 - Fasted 13 hours
-- Meditated - 6minutes
+- Meditated - 6 minutes
 - Daily UI - [Landing page - #003](https://www.behance.net/gallery/89064767/DailyUI-Landing-Page-003)
 
 ---
