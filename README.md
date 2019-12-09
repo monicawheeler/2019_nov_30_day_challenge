@@ -17,10 +17,16 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 7 - Monday, December 9th, 2019
+
+- fasted 15 hours
+- TODO meditate 6 minutes
+
+---
+
 ### Day 6 - Sunday, December 8th, 2019
 
 - fasted 13 hours
-- meditated 6 minutes
 
 ---
 
