@@ -17,9 +17,17 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 6 - Sunday, December 8th, 2019
+
+- fasted 13 hours
+- meditated 6 minutes
+
+---
+
 ### Day 5 - Saturday, December 7th, 2019
 
 - fasted 14 hours 10 minutes
+- mediatated 3 minutes
 
 ---
 
