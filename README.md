@@ -19,7 +19,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ### Day 8 - Tuesday, December 10th, 2019
 
-- Fasting goal - 13 hours
+- Fasted - 13 hours
 - Daily UI - [Settings - #006](https://www.behance.net/gallery/89268013/DailyUI-profile-settings-006)
 
 ---
