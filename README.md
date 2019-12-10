@@ -17,10 +17,17 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 8 - Tuesday, December 10th, 2019
+
+- Fasting goal - 13 hours
+- Daily UI - [Settings - #006](https://www.behance.net/gallery/89268013/DailyUI-profile-settings-006)
+
+---
+
 ### Day 7 - Monday, December 9th, 2019
 
 - fasted 15 hours
-- TODO meditate 6 minutes
+- Daily UI - App Logo - skipped this exercise
 
 ---
 
@@ -41,6 +48,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 - Fasted 14 hours and 10 minutes
 - Mediate for 5 minutes
+- Daily UI - [Calulator - #004](https://www.behance.net/gallery/89217361/DailyUI-Calculator-004)
 
 ---
 
