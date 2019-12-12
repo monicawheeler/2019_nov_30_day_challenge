@@ -17,14 +17,25 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 10 - Thursday, December 12th, 2019
+
+- Fasted 14 hours
+- Daily UI - [Settings - #007](https://www.behance.net/gallery/89368245/DailyUI-settings-007)
+- Daily UI - [404 - #008](https://www.behance.net/gallery/89369067/DailyUI-404-008)
+  - Assets from [Stubborn](https://stubborn.fun)
+
+---
+
 ### Day 9 - Wednesday, December 11th, 2019
 
 - fasted 13 hours 
 
+---
+
 ### Day 8 - Tuesday, December 10th, 2019
 
 - Fasted - 13 hours
-- Daily UI - [Settings - #006](https://www.behance.net/gallery/89268013/DailyUI-profile-settings-006)
+- Daily UI - [Profile - #006](https://www.behance.net/gallery/89268013/DailyUI-profile-settings-006)
 
 ---
 
