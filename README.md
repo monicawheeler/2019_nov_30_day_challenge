@@ -14,6 +14,12 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 - *Start*: work on building to a 60 second plank (start in modified plank, knees down)
   - *Helpful*: https://www.youtube.com/watch?v=UiFdfDBY77g
 - *Continue*: meditate daily
+---
+
+### Day 11 - Friday, December 13th, 2019
+
+- Fasting...
+- Daily UI [Music Player - #008](https://www.behance.net/gallery/89413773/DailyUI-music-player-009)
 
 ---
 
