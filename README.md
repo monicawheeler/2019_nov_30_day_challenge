@@ -17,7 +17,21 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
-### Day 12 - Saturday, December 14th, 201@
+### Day 14 - Monday, December 16th, 2019
+
+- fasting goal 14 hours
+- Daily UI today is social share
+- meditation goal is 5 minutes 
+
+---
+
+### Day 13 - Sunday, December 15th, 2019
+
+- fasted 12 hours
+
+---
+
+### Day 12 - Saturday, December 14th, 2019
 
 - Fasted 12 hours
 
