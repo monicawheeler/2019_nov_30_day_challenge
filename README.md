@@ -19,8 +19,8 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ### Day 14 - Monday, December 16th, 2019
 
-- fasting goal 14 hours
-- Daily UI today is social share
+- Fasted 17+ hours 
+- Daily UI [Social Share - #010](https://www.behance.net/gallery/89518019/DailyUI-social-share-010)
 - meditation goal is 5 minutes 
 
 ---
@@ -40,7 +40,7 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 ### Day 11 - Friday, December 13th, 2019
 
 - Fasted 15 hours
-- Daily UI [Music Player - #008](https://www.behance.net/gallery/89413773/DailyUI-music-player-009)
+- Daily UI [Music Player - #009](https://www.behance.net/gallery/89413773/DailyUI-music-player-009)
 
 ---
 
