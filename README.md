@@ -17,11 +17,17 @@ This is a personal changelog of my updates for the [30 Day GitHub challenge as d
 
 ---
 
+### Day 15 - Tuesday, December 176th, 2019
+
+- Fasting goal is 14 hours
+- Daily UI [Flash Message - #011]()
+
+---
+
 ### Day 14 - Monday, December 16th, 2019
 
 - Fasted 17+ hours 
 - Daily UI [Social Share - #010](https://www.behance.net/gallery/89518019/DailyUI-social-share-010)
-- meditation goal is 5 minutes 
 
 ---
 
